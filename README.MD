@@ -15,6 +15,7 @@ $ sass assets/sass/base.scss assets/css/style.css --no-source-map --style compre
 ### Monitorar uma pasta
 ```shell
 $ sass --watch assets/sass:assets/css --no-source-map --style compressed
+$ sass --watch assets/sass:assets/css --no-source-map --style expanded
 ```
 
 ## 
